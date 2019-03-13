@@ -1,0 +1,42 @@
+<?php
+$section_params = array(
+	'row_type' => "image"
+,'type_width' =>'full_size'
+,'row_fit_to_height'=>'enable'
+,'box_size_states'=>'content_box_size'
+,'el_class'=>''
+,'row_vertical_align'=>'enable'
+,'row_equal_column_heigh'=>'enable'
+,'row_content_vertical_align'=>'0'
+,'row_padding_top'=>'270'
+,'row_padding_bottom'=>'270'
+,'row_padding_right'=>'0'
+,'row_padding_left'=>'0'
+,'row_margin_top'=>'0'
+,'row_margin_bottom'=>'0'
+,'background_color'=>'rgba(255,255,255,1)'
+,'row_webm_url'=>''
+,'row_mp4_url'=>''
+,'background_color_image'=>'rgba(0, 0, 0, 0)'
+,'row_image_position'=>'default'
+,'row_bg_image_size_tab_image'=>'cover'
+,'row_bg_repeat_image_gp='=>'no'
+,'first_color'=>'#000'
+,'second_color'=>'#000'
+,'row_gradient_color'=>'pixflow_base64eyJjb2xvcjEiOiIjZmZmIiwiY29sb3IyIjoicmdiYSgyNTUsMjU1LDI1NSwwKSIsImNvbG9yMVBvcyI6IjAuMDAiLCJjb2xvcjJQb3MiOiIxMDAuMDAiLCJhbmdsZSI6MH0='
+,'row_image_position_gradient'=>'fit'
+,'row_bg_image_size_tab_gradient'=>'cover'
+,'row_bg_repeat_gradient_gp'=>'no'
+,'row_inner_shadow'=>'no'
+,'row_sloped_edge'=>'no'
+,'row_slope_edge_position'=>'top'
+,'row_sloped_edge_color'=>'#000'
+,'row_sloped_edge_angle'=>'-3'
+,'parallax_status'=>'enable'
+,'parallax_speed'=>'0'
+,'row_image' => 'http://theme.pixflow.net/massive-dynamic/section/section-49/24.jpg'
+
+
+
+, 'content' => '[vc_column][md_live_text meditor_letter_spacing="0"    meditor_line_height="1"    md_live_text_animation="no" md_live_text_animation_type="fade" md_live_text_animation_speed="800" md_live_text_animation_delay="0.3" md_live_text_animation_position="bottom" md_live_text_animation_show="once" md_live_text_animation_easing="Power4.easeOut" md_live_text_parallax_speed="1"]CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyI+PGIgc3R5bGU9ImxldHRlci1zcGFjaW5nOiAwcHg7Ij48c3BhbiBzdHlsZT0iZm9udC1zaXplOiA0OHB4OyBsaW5lLWhlaWdodDogMS4yZW07IiBjbGFzcz0iIj5PdXIgTG95YWwgQ2xpZW50czwvc3Bhbj48L2I+PC9kaXY+ICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAg[/md_live_text][vc_empty_space height="17"][/vc_empty_space][md_live_text meditor_letter_spacing="0"    meditor_line_height="1"    md_live_text_animation="no" md_live_text_animation_type="fade" md_live_text_animation_speed="800" md_live_text_animation_delay="0.4" md_live_text_animation_position="bottom" md_live_text_animation_show="once" md_live_text_animation_easing="Power4.easeOut" md_live_text_parallax_speed="1"]CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyBmb250LXNpemU6IDE4cHg7Ij48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDBweDsgZm9udC1zaXplOiAxOHB4OyBsaW5lLWhlaWdodDogMS41ZW07IiBjbGFzcz0iIj4mbmJzcDtXZSB0YWtlIHByaWRlIGluIGRlbGl2ZXJpbmcgb25seSB0aGUgYmVzdC4gU2VkIHV0IHBlcnNwaWNpYXRpcyB1bmRlIG9tbmlzIGlzdGUgbmF0dXMmbmJzcDs8L3NwYW4+PC9kaXY+PGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyBmb250LXNpemU6IDE4cHg7Ij48c3BhbiBzdHlsZT0ibGV0dGVyLXNwYWNpbmc6IDBweDsgZm9udC1zaXplOiAxOHB4OyBsaW5lLWhlaWdodDogMS41ZW07IiBjbGFzcz0iIj4mbmJzcDtlcnJvciBzaXQgdm9sdXB0YXRlbSBhY2N1c2FudGl1bSBkb2xvcmVtcXVlIGxhdWRhbnRpdW0uPC9zcGFuPjwvZGl2PiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIA==[/md_live_text][vc_empty_space height="50"][/vc_empty_space][md_client_carousel client_carousel_num="6" client_carousel_number="5" client_play_mode="yes" client_carousel_logo_1="http://theme.pixflow.net/massive-dynamic/section/section-49/1.png" client_carousel_logo_2="http://theme.pixflow.net/massive-dynamic/section/section-49/2.png" client_carousel_logo_3="http://theme.pixflow.net/massive-dynamic/section/section-49/3.png" client_carousel_logo_4="http://theme.pixflow.net/massive-dynamic/section/section-49/4.png" client_carousel_logo_5="http://theme.pixflow.net/massive-dynamic/section/section-49/1.png" client_carousel_logo_6="http://theme.pixflow.net/massive-dynamic/section/section-49/6.png"][/md_client_carousel][/vc_column]'
+);

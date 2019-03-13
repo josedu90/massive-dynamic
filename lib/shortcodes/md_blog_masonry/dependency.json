@@ -1,0 +1,13 @@
+{
+    "js":[
+        "assets/js/isotope.min.js"
+
+    ],
+    "css": [
+
+    ],
+    "shortcode": [
+        "md_video",
+        "md_button"
+    ]
+}

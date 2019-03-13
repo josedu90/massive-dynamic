@@ -1,0 +1,41 @@
+<?php
+$section_params = array(
+	'row_type' => "none"
+,'type_width' =>'full_size'
+,'row_fit_to_height'=>'enable'
+,'box_size_states'=>'content_full_size'
+,'el_class'=>''
+,'row_vertical_align'=>'enable'
+,'row_equal_column_heigh'=>'enable'
+,'row_content_vertical_align'=>'0'
+,'row_padding_top'=>'0'
+,'row_padding_bottom'=>'0'
+,'row_padding_right'=>'0'
+,'row_padding_left'=>'0'
+,'row_margin_top'=>'0'
+,'row_margin_bottom'=>'0'
+,'background_color'=>'rgba(255,255,255,1)'
+,'row_webm_url'=>''
+,'row_mp4_url'=>''
+,'background_color_image'=>'rgba(0, 0, 0, 0.2)'
+,'row_image_position'=>'default'
+,'row_bg_image_size_tab_image'=>'cover'
+,'row_bg_repeat_image_gp='=>'no'
+,'first_color'=>'#000'
+,'second_color'=>'#000'
+,'row_gradient_color'=>'pixflow_base64eyJjb2xvcjEiOiIjZmZmIiwiY29sb3IyIjoicmdiYSgyNTUsMjU1LDI1NSwwKSIsImNvbG9yMVBvcyI6IjAuMDAiLCJjb2xvcjJQb3MiOiIxMDAuMDAiLCJhbmdsZSI6MH0='
+,'row_image_position_gradient'=>'fit'
+,'row_bg_image_size_tab_gradient'=>'cover'
+,'row_bg_repeat_gradient_gp'=>'no'
+,'row_inner_shadow'=>'no'
+,'row_sloped_edge'=>'no'
+,'row_slope_edge_position'=>'top'
+,'row_sloped_edge_color'=>'#000'
+,'row_sloped_edge_angle'=>'-3'
+,'parallax_status'=>'enable'
+,'parallax_speed'=>'0'
+
+
+, 'content' => '[vc_column el_class="" width="6/12" border_color="rgba(0,0,0,1)" border_style="solid" background_color="rgba(0,0,0,0)" margin_top="0" margin_right="0" margin_bottom="0" margin_left="0" padding_top="0" padding_right="0" padding_bottom="0" padding_left="0" border_top_width="0" border_right_width="0" border_bottom_width="0" border_left_width="0" css="{border-color:rgba(0,0,0,1);border-style:solid;background-color:rgba(0,0,0,0);background-size:;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;}" md_laptop_visibility="enable" md_tablet_portrait_visibility="enable" md_tablet_landscape_visibility="enable" md_tablet_portrait_width="12" md_mobile_portrait_visibility="enable" md_mobile_landscape_visibility="enable"][md_splitBox sb_title="International  Services" sb_subtitle="Business Solution" sb_desc="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto 
+consequuntur magni dolores." sb_image="http://theme.pixflow.net/massive-dynamic/section/section-46/18.jpg" sb_bg_color="rgb(70, 71, 73)" sb_text_color="rgb(255, 255, 255)" sb_alignment="sb-left" sb_title_size="h4" sb_height="555" use_button="yes" button_style="fill-rectangle" button_size="small" left_right_padding="0" button_text="VIEW MORE" button_icon_class="icon-empty" button_color="rgba(255,255,255,1)" button_text_color="rgb(51, 51, 51)" button_bg_hover_color="rgb(175, 175, 175)" button_hover_color="rgb(35, 35, 35)" button_url="#" button_target="_self" md_splitBox_animation_type="fade" md_splitBox_animation_speed="200" md_splitBox_animation_delay="0.0" md_splitBox_animation_position="center" md_splitBox_animation_show="once" md_splitBox_animation_easing="Quart.easeInOut" md_splitBox_parallax_speed="1"][/md_splitBox][/vc_column][vc_column el_class="" width="6/12" border_color="rgba(0,0,0,1)" border_style="solid" background_color="rgba(0,0,0,0)" margin_top="0" margin_right="0" margin_bottom="0" margin_left="0" padding_top="0" padding_right="0" padding_bottom="0" padding_left="0" border_top_width="0" border_right_width="0" border_bottom_width="0" border_left_width="0" css="{border-color:rgba(0,0,0,1);border-style:solid;background-color:rgba(0,0,0,0);background-size:;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;border-top-width:0px;border-right-width:0px;border-bottom-width:0px;border-left-width:0px;}" md_laptop_visibility="enable" md_tablet_portrait_visibility="enable" md_tablet_landscape_visibility="enable" md_tablet_portrait_width="12" md_mobile_portrait_visibility="enable" md_mobile_landscape_visibility="enable"][md_splitBox sb_title="Policy Publications" sb_subtitle="Tools & Resources" sb_desc="Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." sb_image="http://theme.pixflow.net/massive-dynamic/section/section-46/19.jpg" sb_bg_color="rgb(39, 39, 39)" sb_text_color="rgb(255, 255, 255)" sb_alignment="sb-left" sb_title_size="h5" sb_height="555" use_button="yes" button_style="fill-rectangle" button_size="small" left_right_padding="0" button_text="VIEW MORE" button_icon_class="icon-empty" button_color="rgba(255,255,255,1)" button_text_color="rgb(51, 51, 51)" button_bg_hover_color="rgb(175, 175, 175)" button_hover_color="rgb(35, 35, 35)" button_url="#" button_target="_self" md_splitBox_animation_type="fade" md_splitBox_animation_speed="200" md_splitBox_animation_delay="0.0" md_splitBox_animation_position="center" md_splitBox_animation_show="once" md_splitBox_animation_easing="Quart.easeInOut" md_splitBox_parallax_speed="1"][/md_splitBox][/vc_column]'
+);
